@@ -34,7 +34,7 @@ const Home: React.FC = () => {
   }
 
   return <div>
-    <h1>Ola Home</h1>
+  
     <Search loadUser={loadUser} />
 
     <div>
